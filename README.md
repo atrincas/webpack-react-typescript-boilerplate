@@ -40,7 +40,7 @@ tsc --init
 
 ### 7.
 
-tsoncfig.js
+tsconfig.js
 
 ```javascript
 {
